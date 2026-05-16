@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Bantaeng Digital Map - Kelompok 3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>The Bantaeng Digital Map</h1>
+        <p>Kelompok 3 • Jelajahi Keindahan Bantaeng Sentuh Nama Lokasi</p>
+    </header>
+
+    <main class="map-container">
+        <!-- Lokasi 1: Seruni -->
+        <div class="location-card">
+            <h2 class="location-name">Pantai Seruni</h2>
+            <div class="hidden-content">
+                <img src="https://images.unsplash.com/photo-1596436889106-be35e843f974?w=500" alt="Pantai Seruni">
+                <p>Ikon pusat keaktifan Bantaeng. Tempat bersantai menikmati sunset, area olahraga, dan pusat kuliner pantai yang ramai di malam hari.</p>
+            </div>
+        </div>
+
+        <!-- Lokasi 2: Eremerasa -->
+        <div class="location-card">
+            <h2 class="location-name">Pemandian Eremerasa</h2>
+            <div class="hidden-content">
+                <img src="https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=500" alt="Eremerasa">
+                <p>Pemandian alam legendaris yang sejuk. Airnya keluar langsung dari mata air purba di bawah rindangnya pepohonan hutan yang asri.</p>
+            </div>
+        </div>
+
+        <!-- Lokasi 3: Loka -->
+        <div class="location-card">
+            <h2 class="location-name">Agrowisata Loka</h2>
+            <div class="hidden-content">
+                <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500" alt="Loka">
+                <p>Terletak di lereng gunung dengan udara yang sangat dingin. Terkenal dengan agrowisata stroberi, bawang, dan pemandangan pegunungan yang memukau.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Kelompok 3 - Tugas Website Digital Map</p>
+    </footer>
+
+</body>
+</html>
